@@ -14,9 +14,7 @@ accessKey = 'ServiceKey.json' # location of the file with logins
 totalMPs  = 100 #For turnout
 lastCellOnSheet = 'BZ'
 
-authorisedProxies = ["jb567", "akc8", "duncs11", "infernoplato",
-                     "thechattyshow", "jellytom", "premierhirohito","alajv3",
-                    "johnthedoctor"]
+authorisedProxies = [""]
 
 ###############################################################################
 ###################################FUNCTIONS###################################
